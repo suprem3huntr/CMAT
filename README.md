@@ -4,3 +4,8 @@ A program that displays covid cases in different districts as well as gives loca
 Dependencies:
 geopandas
 pandas
+matplotlib
+overpy
+smopy
+requests
+PIL
